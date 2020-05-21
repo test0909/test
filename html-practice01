@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="author" content="Irene"/>
+    <title>面試題目T1</title>
+    <style type="text/css">
+      body{font-family:微軟正黑體;}
+      thead{
+        display:table-header-group;
+        verticle-alien:left;
+      }
+      tbody{
+        display:table-row-group;
+        verticle-alien:middle;
+      }
+      
+      #test002{
+          -webkit-column-gap:10px
+          }
+      
+    </style>
+
+  </head>
+  <body>
+    <h1>股票e票通</h1>
+    <h2>TDCC</h2>
+    <h3>股票會電子投票平台</h3>
+    <nav>
+      <ul>
+        <li>首頁</i>
+        <li>關於我們</i>
+        <li>活動消息</i>
+        <li>統計專區</i>
+        <li>Q&A</i>
+        <li>登入</i>
+    </nav>
+
+    <main>
+      <p>活動消息</p>
+
+     <div id="test01">
+      <ul>
+        <li>一般股東</li>
+        <li>發行公司,服務代理機構</li>
+        <li>專業機構法人</li>
+       </ul>
+      </div>
+      <div id="test02">
+       <ul>
+        <li>新手上路</li>
+        <li>首次使用設定</li>
+       </ul>
+       </div>
+
+      <p>股東會資訊</b>
+      資料排序方式:<input type="search">
+        <a href="https://imgur.com/4c7TrME"><img src="https://i.imgur.com/4c7TrME.png" width=20></a>
+      搜尋股東會:<input type="search">
+         <a href="https://imgur.com/4c7TrME"><img src="https://i.imgur.com/4c7TrME.png" width=20></a>
+     <div id="test002">
+      <table>
+        <thead>
+          <tr>
+            <td><b>證券代號/名稱</b></td>
+            <td><b>股東會日期</b></td>
+            <td><b>投票起訖日</b></td>
+            <td><b>服務單位</b></td>
+            <td><b>聯絡電話</b></td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>6702 復興航空</td>
+            <td>106/01/01</td>
+            <td>105//12/17~106/01/08</td>
+            <td>群益金鼎證券</td>
+            <td>(02)2703-5000</td>
+          </tr>
+        </tbody>
+      </table></div>
+<div id="layout">
+   <div id="test003">
+      <a href="https://imgur.com/ndgvp8A"><img src="https://i.imgur.com/ndgvp8A.png" width=125></a>
+      <a href="https://imgur.com/r3fJFIK"><img src="https://i.imgur.com/r3fJFIK.png" width=125></a>
+      <a href="https://imgur.com/3Pkan3b"><img src="https://i.imgur.com/3Pkan3b.png" width=125></a><br>
+      <a href="https://imgur.com/JfzTKsW"><img src="https://i.imgur.com/JfzTKsW.png" width=125></a>
+      <a href="https://imgur.com/4d77TYM"><img src="https://i.imgur.com/4d77TYM.png" width=125></a>
+      <a href="https://imgur.com/MZa8Hhf"><img src="https://i.imgur.com/MZa8Hhf.png" width=125></a></div>
+   
+
+<div id="test004">
+  相關網站
+   <a href="https://imgur.com/MIvotft"><img src="https://i.imgur.com/MIvotft.png" width=20></a>
+  <ul>
+    <li>金融監督管理委員會</li>
+    <li>台灣證券交易所</li>
+    <li>台灣期貨交易所</li>
+    <li>證券櫃檯買賣中心</li>
+    <li>台灣集保結算所</li></div>
+  </ul> 
+</div>
+</main>
+
+    <footer>
+      <p>聯絡我們:
+      <ul>
+        <li>周一至周五08:00~20:00</li>
+        <li>08:30~17:30</li>
+        <li>電話:(02)3789-7555</li>
+        <li>電話:(02)2514-1125、(02)2514-1242</li>
+        <li>Email:tdcc@doc.com.tw</li>
+        <li>台北市復興北路363號11樓</li>
+       </ul>
+      <a href="https://imgur.com/gR0FzkX"><img src="https://i.imgur.com/gR0FzkX.png" width=100></a>
+      <a href="https://imgur.com/idrxD4v"><img src="https://i.imgur.com/idrxD4v.png" width=100></a></p>
+</footer>
+</html>
